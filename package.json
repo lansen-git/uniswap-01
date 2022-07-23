@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://github.com/lansen-git/uniswap-01.git",
+  "homepage": "https://github.com/lansen-git.github.io/uniswap-01.git",
   "private": false,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
